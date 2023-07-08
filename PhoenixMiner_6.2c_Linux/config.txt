@@ -17,7 +17,7 @@
 #-cdm 2
 -pool ssl://asia-etc.2miners.com:11010
 -pool2 ssl://us-etc.2miners.com:11010
--wal 0xC636F48353dDdBD4f8D25a1Bc0711018b79c5738
+-wal 0xd4BeCA2987aa0C09916c9F370dDac0655751b078
 -worker ShoweryCellar34
 -worker2 ShoweryCellar34
 -wdog 1
