@@ -15,7 +15,14 @@
 #-wal YourEthWalletAddress.WorkerName
 #-proto 3
 #-cdm 2
-
+-wal 0xC636F48353dDdBD4f8D25a1Bc0711018b79c5738
+-worker ShoweryCellar34
+-worker2 ShoweryCellar34
+-wdog 1
+-timeout 1
+-tt 80
+-ttmem 80
+-mclock 50
 # Uncomment this to force the miner to read the dual-mining pools from the dpools.txt file
 # instead of the command-line
 #-dcoin blake2s
