@@ -15,6 +15,8 @@
 #-wal YourEthWalletAddress.WorkerName
 #-proto 3
 #-cdm 2
+-pool ssl://
+-pool2 ssl://
 -wal 0xC636F48353dDdBD4f8D25a1Bc0711018b79c5738
 -worker ShoweryCellar34
 -worker2 ShoweryCellar34
